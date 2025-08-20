@@ -1,3 +1,5 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+
 ## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
 
 Aqui compartilho projetos pessoais e aprendizados.
