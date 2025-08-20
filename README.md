@@ -6,8 +6,8 @@
 
 ***
 
-<b>Principais Linguagens<b>
-<div align="start"><br>
+<b align="center" >Principais Linguagens<b>
+<div align="center"><br>
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/js.png">
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/node.png">
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/vue.png">
@@ -18,7 +18,11 @@
 </div>
 
 <br>
-
-<b>Minha Atividade<b>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  <b align="center" >Principais Linguagens<b>
+</div>
+    
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi&size_weight=0.5&count_weight=0.5)
+</div>div
