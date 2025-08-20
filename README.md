@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=tokyonight&count_private=true)
 
