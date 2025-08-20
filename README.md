@@ -1,14 +1,12 @@
 <img src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/header2.png" alt="Mokkapps GitHub README header image">
 
+<p style="text-align: center; font-size: 14px;" > 👋 Olá, me chamo Everton Marussi Dias, tenho 19 anos e sou estudante de Ciência da Computação. Minha jornada na área de tecnologia começou aos 15 anos, durante o curso técnico na Etec Júlio de Mesquita, onde descobri minha paixão pelo desenvolvimento de software.
 
-Aqui compartilho projetos pessoais e aprendizados.
-Fique à vontade para explorar e entrar em contato se tiver dúvidas ou quiser trocar ideias!
+Atualmente, atuo como desenvolvedor Full Stack, com experiência em plataformas SaaS e soluções que integram dispositivos IoT, atuando em frentes de Frontend, Backend e DevOps. Trabalho com tecnologias como Vue.js, Node.js, Express, Docker, Kubernetes, Ubuntu Server, gRPC, JWT, e sigo práticas como componentização, UX/UI, Clean Code, API Gateway e microserviços.
 
-- 📚 Estudante de Cîência da Computação
-  
-- 💼 Atualmente trabalho como desenvolvedor Full Stack
-  
-- 🖥️ Desenvolvimento de plataformas SaaS, ERP e IoT
+Sou motivado por desafios que envolvem tecnologia, inovação e impacto real. Tenho interesse contínuo em me especializar, aprender com outras pessoas e contribuir para o desenvolvimento de soluções escaláveis e seguras.
+
+💬 Gosta de tecnologia, desenvolvimento ou quer trocar experiências? Sinta-se à vontade para me chamar por aqui. Será um prazer conversar!</p>
   
 
 <div style="display: inline_block"><br>
