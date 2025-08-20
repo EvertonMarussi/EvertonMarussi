@@ -1,8 +1,7 @@
 ## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
-
-📚 Estudante de Cîência da Computação
-💼 Atualmente trabalho como desenvolvedor Full Stack
-🖥️ Desenvolvimento de plataformas SaaS, ERP e IoT
+- 📚 Estudante de Cîência da Computação
+- 💼 Atualmente trabalho como desenvolvedor Full Stack
+- 🖥️ Desenvolvimento de plataformas SaaS, ERP e IoT
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=tokyonight&count_private=true)
 <!--
