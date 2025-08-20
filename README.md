@@ -6,7 +6,7 @@
 
 ***
 
-<h3 align="center">Minhas Tecnologias 🧑‍💻</h3>
+<h3 align="center">Minhas Tecnologias 🧑🏻‍💻</h3>
 
 <div align="center"><br>
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/js.png">
@@ -20,7 +20,7 @@
 
 <br>
 
-<h3 align="center">Meu GitHub Stats 🧑‍💻</h3>
+<h3 align="center">Meu GitHub Stats 📊</h3>
     
 <div align="center">
   
