@@ -1,7 +1,7 @@
 ## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi)](https://github.com/EvertonMarussi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi&size_weight=0.5&count_weight=0.5)
 <!--
 **EvertonMarussi/EvertonMarussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
