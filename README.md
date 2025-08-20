@@ -1,4 +1,4 @@
-<img src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/header.png" alt="Mokkapps GitHub README header image">
+<img src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/header2.png" alt="Mokkapps GitHub README header image">
 
 ## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
 
