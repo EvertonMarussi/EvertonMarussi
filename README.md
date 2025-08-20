@@ -6,7 +6,7 @@
 
 ***
 
-<div align="center" >Principais Linguagens</div>
+<h1 style="text-align: center;">Meu Projeto Incrível</h1>
 
 <div align="center"><br>
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/js.png">
