@@ -1,5 +1,7 @@
 ## Olá, sou o Everton Marussi! Seja bem-vindo ao meu perfil 👋
 
+Aqui compartilho projetos pessoais e aprendizados.
+Fique à vontade para explorar e entrar em contato se tiver dúvidas ou quiser trocar ideias!
 
 - 📚 Estudante de Cîência da Computação
   
