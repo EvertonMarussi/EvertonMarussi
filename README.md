@@ -1,6 +1,8 @@
 <img src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/header2.png" alt="Mokkapps GitHub README header image">
 
+```
 <div align="center"> 👋 Olá, me chamo **Everton Marussi Dias**, tenho 19 anos e sou estudante de **Ciência da Computação**. Comecei minha jornada em tecnologia aos 15 anos, no curso técnico da **Etec Júlio de Mesquita**, onde descobri minha paixão por desenvolvimento de software. Atualmente sou **desenvolvedor Full Stack**, com experiência em **SaaS**, **IoT**, **Frontend, Backend e DevOps**. Trabalho com **Vue.js, Node.js, Express, Docker, Kubernetes, Ubuntu Server, gRPC, JWT**, seguindo práticas como **Clean Code, microserviços, API Gateway e UX/UI**. 🚀 Motivado por desafios que envolvem **tecnologia, inovação e impacto real**. Sempre em busca de aprender, compartilhar e construir soluções escaláveis e seguras. 💬 Gosta de tecnologia? Bora trocar ideia! </div>
+```
 
 
   
