@@ -6,7 +6,8 @@
 
 ***
 
-<b align="center" >Principais Linguagens<b>
+<div align="center" >Principais Linguagens</div>
+
 <div align="center"><br>
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/js.png">
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/node.png">
@@ -18,7 +19,10 @@
 </div>
 
 <br>
-<div align="center" >Principais Linguagens</div>
+
+<div align="center" >
+  ##Minha atividade
+</div>
     
 <div align="center">
   
