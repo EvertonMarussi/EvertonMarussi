@@ -6,7 +6,7 @@
 
 ***
 
-<h3 align="center">Meu Projeto Incrível</h3>
+<h3 align="center">Minhas Tecnologias 🧑‍💻</h3>
 
 <div align="center"><br>
   <img align="center"  height="45" width="45"  style="margin-right: 10px;" src="https://github.com/EvertonMarussi/EvertonMarussi/blob/main/js.png">
@@ -20,13 +20,11 @@
 
 <br>
 
-<div align="center" >
-  ##Minha atividade
-</div>
+<h3 align="center">Meu GitHub Stats 🧑‍💻</h3>
     
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonMarussi&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonMarussi)
   
 </div>
